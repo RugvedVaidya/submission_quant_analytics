@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+pandas
+numpy
+statsmodels
+streamlit
+plotly
+requests
