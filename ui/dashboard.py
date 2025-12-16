@@ -63,7 +63,7 @@ symbol_b = st.sidebar.selectbox("Symbol B", ["ethusdt"])
 
 timeframe = st.sidebar.selectbox(
     "Timeframe",
-    ["1s", "1m", "5m"],
+    ["1m", "5m"],
     index=0
 )
 
